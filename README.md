@@ -71,6 +71,3 @@ I'm open to **research collaborations**, **ML/AI projects**, and **full-stack en
 
 ---
 
-<div align="center">
-  <sub>⚡ Fun fact: I'm one of the few Amharic-speaking AI researchers — bridging Ethiopian language tech and cutting-edge ML.</sub>
-</div>
