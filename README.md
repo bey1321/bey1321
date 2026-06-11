@@ -20,7 +20,7 @@ I work at the intersection of **Machine Learning**, **Full-Stack Development**, 
 
 - 📄 **IEEE Published** — presented research on Explainable AI (XAI) for 6G network security at ICERAI 2026
 - 🔭 Currently researching **non-glycemic diabetes pre-screening** using tree-based ML models, and a **digital twin framework** for student well-being monitoring
-- 🌱 Deepening expertise in **AI Engineering** — RAG, LLM pipelines, and production ML systems
+- 🌱 Learning about **AI Engineering** — RAG, LLM pipelines, and production ML systems
 - 🌍 Ethiopian · based in UAE · fluent in **Amharic & English**
 - 😄 Pronouns: **she/her**
 
